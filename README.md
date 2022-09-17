@@ -52,7 +52,7 @@ def max_marks(list1):
 ![output 1](https://user-images.githubusercontent.com/113497680/190687007-b4db72fe-86a2-40ec-bb93-60f8c13f9337.jpeg)
 
 ### the maximum marks without using builtin functions.
-![output 3](![Screenshot from 2022-09-17 14-40-31](https://user-images.githubusercontent.com/113497680/190849470-71d218b2-bc4d-463d-a344-1aa7033ac831.png)
+![Screenshot from 2022-09-17 14-40-31](https://user-images.githubusercontent.com/113497680/190849470-71d218b2-bc4d-463d-a344-1aa7033ac831.png)
 
 
 ## Result:
